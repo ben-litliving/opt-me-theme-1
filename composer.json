@@ -1,0 +1,5 @@
+{
+    "require": {
+        "davidwebca/wordpress-menu-classes": "^1.2"
+    }
+}
